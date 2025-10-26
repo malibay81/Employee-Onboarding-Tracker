@@ -1,4 +1,4 @@
-# Employee-Onboarding-Tracker
+# Employee Onboarding Tracker
 
 Ein Blazor WebAssembly Projekt zur Urlaubsplanung.
 
