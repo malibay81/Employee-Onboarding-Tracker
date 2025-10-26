@@ -1,8 +1,8 @@
-# Employee Onboarding Tracker
+# Vacation Planer
 
 Ein Blazor WebAssembly Projekt zur Urlaubsplanung.
 
-Diese Website ist auf GitHub Pages gehostet: [https://malibay81.github.io/Employee-Onboarding-Tracker/](https://malibay81.github.io/Employee-Onboarding-Tracker/)
+Diese Website ist auf GitHub Pages gehostet: [https://malibay81.github.io/Vacation-Planer/](https://malibay81.github.io/Vacation-Planer/)
 
 ## Technologien
 
@@ -19,6 +19,6 @@ Diese Website ist auf GitHub Pages gehostet: [https://malibay81.github.io/Employ
 ## GitHub Pages Deployment
 
 Das Projekt wurde für GitHub Pages konfiguriert mit:
-- Korrekter base href: `/Employee-Onboarding-Tracker/`
+- Korrekter base href: `/Vacation-Planer/`
 - `.nojekyll` Datei für GitHub Pages
 - `404.html` für SPA-Routing
