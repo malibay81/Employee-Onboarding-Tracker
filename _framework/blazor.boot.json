@@ -1,10 +1,10 @@
 {
   "mainAssemblyName": "EmployeeOnboardingTracker.Client",
   "resources": {
-    "hash": "sha256-9bEI2NU5iV1ROeCkRFj4EyN/6GsagxIB/tn1p0ZMHco=",
+    "hash": "sha256-cAVNBvjkodFKT284xRS5BnF9cyU6Wl5Kl1q1WsY8Db0=",
     "fingerprinting": {
       "Blazor.Lottie.Player.kz15cfjvng.wasm": "Blazor.Lottie.Player.wasm",
-      "EmployeeOnboardingTracker.Client.wlncv7em4m.wasm": "EmployeeOnboardingTracker.Client.wasm",
+      "EmployeeOnboardingTracker.Client.u5xl2uops7.wasm": "EmployeeOnboardingTracker.Client.wasm",
       "Microsoft.AspNetCore.Components.4e94qs4193.wasm": "Microsoft.AspNetCore.Components.wasm",
       "Microsoft.AspNetCore.Components.Web.h8lrnaxbqk.wasm": "Microsoft.AspNetCore.Components.Web.wasm",
       "Microsoft.AspNetCore.Components.WebAssembly.j2unnqjdzn.wasm": "Microsoft.AspNetCore.Components.WebAssembly.wasm",
@@ -69,7 +69,7 @@
     },
     "assembly": {
       "Blazor.Lottie.Player.kz15cfjvng.wasm": "sha256-sE5qBLTB5C65x/WLjQ3Uggyr2QXr7iIAfcnhRuL7rg0=",
-      "EmployeeOnboardingTracker.Client.wlncv7em4m.wasm": "sha256-hF12T6oV+60wBin/V5HlJYlpo912Y8OY+JDXWLxPp3E=",
+      "EmployeeOnboardingTracker.Client.u5xl2uops7.wasm": "sha256-3iqYt533LQiOu0C6bvLsJk8wkHIIe4T1/eV41cgeRk8=",
       "Microsoft.AspNetCore.Components.4e94qs4193.wasm": "sha256-jNIm7mUtE+xOP5m2cs8uCn/A0qi0JRhVBHanRThJNsg=",
       "Microsoft.AspNetCore.Components.Web.h8lrnaxbqk.wasm": "sha256-QVNjniHmyqNbpT7AfD+qMipe+s14muMShMqhJSDUHUc=",
       "Microsoft.AspNetCore.Components.WebAssembly.j2unnqjdzn.wasm": "sha256-+4ZJNcm+SgF06Z1jkH9dWBjW8kbc5BvfGr9RrTF8gw4=",
